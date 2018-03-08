@@ -1,0 +1,6 @@
+package data;
+
+message Data{
+  required string id=1;
+  required bytes  code=2;
+}
